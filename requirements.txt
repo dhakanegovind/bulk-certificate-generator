@@ -1,0 +1,5 @@
+Flask>=3.0
+reportlab>=4.0
+# Optional: only needed if you prefer running the tests with pytest.
+# The tests are plain unittest classes, so `python -m unittest` works without it.
+pytest>=8.0
